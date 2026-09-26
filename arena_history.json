@@ -1,0 +1,47 @@
+[
+  {
+    "power_k": 121.7,
+    "result": "victory",
+    "time": 1790430435
+  },
+  {
+    "power_k": 260.78,
+    "result": "victory",
+    "time": 1790430490
+  },
+  {
+    "power_k": 299.06,
+    "result": "victory",
+    "time": 1790430545
+  },
+  {
+    "power_k": 445.05,
+    "result": "victory",
+    "time": 1790430580
+  },
+  {
+    "power_k": 87.86,
+    "result": "victory",
+    "time": 1790431388
+  },
+  {
+    "power_k": 224.8,
+    "result": "victory",
+    "time": 1790431420
+  },
+  {
+    "power_k": 80.27,
+    "result": "victory",
+    "time": 1790432086
+  },
+  {
+    "power_k": 367.24,
+    "result": "defeat",
+    "time": 1790432154
+  },
+  {
+    "power_k": 414.54,
+    "result": "defeat",
+    "time": 1790432198
+  }
+]
